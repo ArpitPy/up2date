@@ -2,7 +2,7 @@
 # 🗞️ UP2DATE NEWS 🗞️
 
 UP2DATE is a web-app that fetches latest news from around the world at real-time from several news websites. It has several features like fast loading, dark mode, news searching and several news categories to choose from.
-## Features
+## 🛠️ Features
 
 (1) Light/dark mode toggle
 
@@ -19,12 +19,12 @@ UP2DATE is a web-app that fetches latest news from around the world at real-time
 (7) Real-time news
 
 
-## Demo
+## 🔥 Demo
 
 **[Live Demo](http://up2date.vercel.app/)**
 
 
-## Tech Stack
+## ⚡ Tech Stack
 
 - ReactJS
 - Tailwind CSS
@@ -35,7 +35,7 @@ UP2DATE is a web-app that fetches latest news from around the world at real-time
 - Line Clamp
 
 
-## Run Locally
+## ⬇️ Run Locally
 
 Clone the project
 
@@ -64,7 +64,7 @@ Start the server
 ```
 
 
-## Contributing
+## ❤️ Contributing
 
 Contributions are always welcome!
 
